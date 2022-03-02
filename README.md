@@ -7,3 +7,10 @@
 6. Paste in the HTML link to GitHub repository, follow the instructions
 7. **IMPORTANT**: make sure the folder is not inside of STAT 201!
 8. Now you should be able to access the repository and edit away!
+
+## Personal Access Token(PAT)
+- You will be asked for a PAT when commiting a change, the PAT can be generated following the steps outlined in the document below
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+## Note
+- Workflow refresher: pull changes -> edit -> add .ipynd (NOT the checkpoint) to stage area -> commit -> push 
