@@ -22,21 +22,21 @@ Introduction
 - [ ] Justify your choice 
 
 Result 
-- [ ] Demonstrate that the dataset can be read from the web into R.
-- [ ] Clean and wrangle your data into a tidy format.
-- [ ] Plot the relevant raw data, tailoring your plot in a way that addresses your question.
+- [x] Demonstrate that the dataset can be read from the web into R.
+- [x] Clean and wrangle your data into a tidy format.
+- [x] Plot the relevant raw data, tailoring your plot in a way that addresses your question.
 - [ ] Compute estimates of the parameter you identified across your groups. Present this in a table. If relevant, include these estimates in your plot.
 
 Method
-- [ ] A brief description of “the good things” about this report – specifically, in what ways is this report trustworthy?
-- [ ] Explaining why the plot(s) and estimates that you produced are not enough to give to a stakeholder
-- [ ] What you should provide in addition to address this gap
-- [ ] Minimum one hypothesis test
-- [ ] Minimum one confidence interval 
+- [x] A brief description of “the good things” about this report – specifically, in what ways is this report trustworthy?
+- [x] Explaining why the plot(s) and estimates that you produced are not enough to give to a stakeholder
+- [x] What you should provide in addition to address this gap
+- [x] Minimum one hypothesis test
+- [x] Minimum one confidence interval 
 - [ ] Compare the bootstrapping and asymptotics methods.
-- [ ] What do you expect to find in the final report?
-- [ ] What impact could such findings have?
-- [ ] What future questions could this lead to?
+- [x] What do you expect to find in the final report?
+- [x] What impact could such findings have?
+- [x] What future questions could this lead to?
 
 ## Set up 
 1. Open JupyterHub from Canvas(or login to cybera.syzygy.ca)
